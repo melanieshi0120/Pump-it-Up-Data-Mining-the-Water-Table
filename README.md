@@ -8,16 +8,19 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 # Distribution of Target and Features 
 
-- Distribution of Target
+* Distribution of Target
+
 ![download.png](download.png)
 
 
-- Distribution of Features
+* Distribution of Features
+
 ![download (1).png](download (1).png)
 
 
 
 # Feature Selection
+
 ![download (2).png](download (2).png)
 
 
