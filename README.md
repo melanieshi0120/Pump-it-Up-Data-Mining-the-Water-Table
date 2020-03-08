@@ -12,9 +12,9 @@ In order to obtian the best prediction, I removed some columns which contian mis
 * Distribution of Target
 ![download.png](download.png)
 * Distribution of Features
-![feature_distribution.png](feature_distribution.png){:height="36px" width="36px"}
+![feature_distribution.png](feature_distribution.png){:height="30px" width="30px"}
 * Feature Selection
-![feature_selection.png](feature_selection.png)
+![feature_selection.png](feature_selection.png){:height="20px" width="20px"}
 # Feature Engineering
 -Train Test Split
 - Oversampling
