@@ -14,9 +14,9 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 
 * Distribution of Features
-![download (1).png]
+![download (1).png](download (1).png)
 
-![download (2).png]
+![download (2).png](download (2).png)
 
 
 
