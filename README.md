@@ -10,10 +10,11 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 * Distribution of Target
 
-![download.png](download.png)
+
 
 * Distribution of Features
 ![download (1).png](download (1).png)
+
 ![download (2).png](download (2).png)
 
 
@@ -29,11 +30,12 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 # Oversampling
 # Data Standardization (StandardScaler)
-#KNN
-#Random Forest
+# KNN
+# Random Forest
 # Decision Tree
 
-# Conclusion 
 
-# Source website: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
-# Presentation: 
+# Conclusion 
+     
+- Source website: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
+- Presentation: 
