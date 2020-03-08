@@ -12,7 +12,7 @@ In order to obtian the best prediction, I removed some columns which contian mis
 * Distribution of Target
 ![download.png](download.png)
 * Distribution of Features
-![feature_distribution.png](feature_distribution.png, width='20')
+![feature_distribution.png](feature_distribution.png=250x250)
 * Feature Selection
 ![feature_selection.png](feature_selection.png)
 # Feature Engineering
