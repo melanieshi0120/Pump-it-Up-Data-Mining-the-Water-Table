@@ -16,7 +16,7 @@ In order to obtian the best prediction, I removed some columns which contian mis
 ![feature_selection.png](feature_selection.png)
 - In this part, I did not remove any features.  
 # Feature Engineering
--Train Test Split
+- Train Test Split
 - Oversampling
 - Data Standardization (StandardScaler)
 # Models
