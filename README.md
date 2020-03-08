@@ -11,9 +11,10 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 # Distribution of Target
 ![download.png](download.png)
-Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
+ - Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
 # Feature Selection
 ![feature_selection.png](feature_selection.png)
+- In this part, I did not remove any features.  
 # Feature Engineering
 -Train Test Split
 - Oversampling
