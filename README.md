@@ -1,4 +1,5 @@
-# Week 9 Project - `Pump-it-Up-Data-Mining-the-Water-Table`
+# Week 9 Project  
+[`Pump-it-Up-Data-Mining-the-Water-Table`]
 
 # Goal
 The goal of this project is to predict which pumps are functional ( or need some repairs), which are not funtional. KNN, Decision Tree and Random Forest are applied in this project. According to accuracy_score and F1_score, Random Forest model is selected as the final model. 
@@ -13,9 +14,9 @@ In order to obtian the best prediction, I removed some columns which contian mis
 
 
 * Distribution of Features
-![download (1).png](download (1).png)
+![download (1).png]
 
-![download (2).png](download (2).png)
+![download (2).png]
 
 
 
