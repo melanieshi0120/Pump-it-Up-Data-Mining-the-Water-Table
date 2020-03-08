@@ -27,11 +27,11 @@ In order to obtian the best prediction, I removed some columns which contian mis
 ![feature_importance.png](feature_importance.png)
 - Comparing KNN , Random Forest and Decision Tree models, Random Forest model gave highest accuracy score and F score.  
 - According to Random Forest model top 5 important features are :
- *1.'longitude' 
- *2.'latitude'
- *3.'quantity'
- *4.'gps_height'
- *5.'waterpoint_type'
+ * 1.'longitude' 
+ * 2.'latitude'
+ * 3.'quantity'
+ * 4.'gps_height'
+ * 5.'waterpoint_type'
  
  
      
