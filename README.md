@@ -10,13 +10,15 @@ The goal of this project is to predict which pumps are functional ( or need some
 # Distribution of Target
 ![distribution_of_target.png](distribution_of_target.png)
  - Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
-# Feature Selection
-![matrix.png](matrix.png)
-- In this part, I did not remove any features.  
 # Feature Engineering
 - Train Test Split
 - Oversampling
 - Data Standardization (MinMaxScaler)
+
+# Feature Selection
+![matrix.png](matrix.png)
+- In this part, I did not remove any features.  
+
 # Models
 - KNN         
 - Random Forest 
