@@ -8,7 +8,7 @@ The goal of this project is to predict which pumps are functional ( or need some
 - In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.
 
 # Distribution of Target
-![distribution of target.png](distribution of target.png)
+![distribution_of_target.png](distribution_of_target.png)
  - Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
 # Feature Selection
 ![matrix.png](matrix.png)
