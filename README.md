@@ -23,8 +23,8 @@ The goal of this project is to predict which pumps are functional ( or need some
 - Decision Tree
 # Conclusion
 ![feature_importance.png](feature_importance.png)
-- Comparing KNN , Random Forest and Decision Tree models, Random Forest model gave highest accuracy score and F score.  
-- According to Random Forest model top 5 important features are :
+Comparing KNN , Random Forest and Decision Tree models, Random Forest model gave highest accuracy score and F score.  
+According to Random Forest model top 5 important features are :
  * 1.'longitude' 
  * 2.'latitude'
  * 3.'quantity'
