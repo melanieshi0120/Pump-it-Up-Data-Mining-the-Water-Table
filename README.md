@@ -5,9 +5,7 @@
 The goal of this project is to predict which pumps are functional ( or need some repairs), which are not funtional. KNN, Decision Tree and Random Forest are applied in this project. According to accuracy_score and F1_score, Random Forest model is selected as the final model. 
 
 # Data Cleaning  
-In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.
-
-# Distribution of Target and Features 
+- In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.
 
 # Distribution of Target
 ![download.png](download.png)
