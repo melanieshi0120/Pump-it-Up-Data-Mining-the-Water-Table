@@ -8,18 +8,18 @@ The goal of this project is to predict which pumps are functional ( or need some
 - In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.
 
 # Distribution of Target
-![download.png](download.png)
+![distribution of target.png](distribution of target.png
  - Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
 # Feature Selection
-![feature_selection.png](feature_selection.png)
+![matrix.png](matrix.png)
 - In this part, I did not remove any features.  
 # Feature Engineering
 - Train Test Split
 - Oversampling
-- Data Standardization (StandardScaler)
+- Data Standardization (MinMaxScaler)
 # Models
 - KNN         
-- Random Forest
+- Random Forest 
 - Decision Tree
 # Conclusion
 ![feature_importance.png](feature_importance.png)
@@ -32,7 +32,7 @@ The goal of this project is to predict which pumps are functional ( or need some
  * 5.'waterpoint_type'
  
  
-     
+ #    
 - Source website: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
 - Presentation:
 https://docs.google.com/presentation/d/16RuNrFkAatRffgyUuw8Lktg78MtJ3fW1VdPh9muhDoM/edit#slide=id.g52d0ce73e5_0_238
