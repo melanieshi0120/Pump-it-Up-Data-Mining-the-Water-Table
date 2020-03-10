@@ -4,8 +4,15 @@
 # Goal
 The goal of this project is to predict which pumps are functional ( or need some repairs), which are not funtional. KNN, Decision Tree and Random Forest are applied in this project. According to accuracy_score and F1_score, Random Forest model is selected as the final model. 
 
+## Target: 
+- not functional :0
+- functional :1
+- funtional but need to repair :2
+## Predictiors:
+![feature_table.png](feature_table.png)
+           
 # Data Cleaning  
-- In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.
+- In order to obtian the best prediction, I removed some columns which contian missing data more than 20%. Then remove rows which contians missing values.  
 
 # Distribution of Target
 ![distribution_of_target.png](distribution_of_target.png)
@@ -14,15 +21,15 @@ The goal of this project is to predict which pumps are functional ( or need some
 - Train Test Split
 - Oversampling
 - Data Standardization (MinMaxScaler)
+- Feature Selection
+  ![matrix.png](matrix.png)
 
-# Feature Selection
-![matrix.png](matrix.png)
-- In this part, I did not remove any features.  
 
 # Models
 - KNN         
 - Random Forest 
 - Decision Tree
+
 # Conclusion
 ![feature_importance.png](feature_importance.png)
 Comparing KNN , Random Forest and Decision Tree models, Random Forest model gave highest accuracy score and F score.  
@@ -31,7 +38,7 @@ According to Random Forest model top 5 important features are :
  * 2.'quantity'
  * 3.'latitude'
  * 4.'gps_height'
- * 5.'waterpoint_type'
+ * 5.'ward'
  
  
  #    
