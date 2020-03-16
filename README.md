@@ -13,12 +13,11 @@ The goal of this project is to predict which pumps are functional ( or need some
 ![feature_table.png](feature_table.png)
            
 # Data Cleaning
-- [Enders ( 2003 ) stated that a missing rate of 15% to 20% was common in educational and psychological studies.](https://psycnet.apa.org/record/2003-09632-006) In order to obtian the best prediction, some columns which contian missing data more than 20% were removed. 
-- There are 19 Some rows which contains missing values 
+- [Enders ( 2003 ) stated that a missing rate of 15% to 20% was common in educational and psychological studies.](https://psycnet.apa.org/record/2003-09632-006) In order to obtian the best prediction, some columns which contian missing data more than 20% were removed.  There are 29 predictors(columns), the rows which contians more than 10 were removed. 
 
 # Distribution of Target
 -![distribution_of_target.png](distribution_of_target.png)
- - Because the target size for each class is not balanced, so I applied oversampling method to balance the class size.
+- Due to the sizes for each class are not balanced, Oversampling method was applied to balance the class size.
  
 # Feature Engineering
 - Train Test Split
