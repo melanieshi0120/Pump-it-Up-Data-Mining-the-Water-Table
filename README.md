@@ -23,7 +23,7 @@ The goal of this project is to predict which pumps are functional ( or need some
 - Train Test Split
 - Oversampling
 - Data Standardization (MinMaxScaler)
-- Feature Selection
+- Feature Selection:  According to the Correlation Maxtrix below, there are no siginificant corrlation between two predictiors, however only one predictor - waterpoint_type_group got removed. Besides waterpoint_type contians similar information and can also explain waterpoint_type_group.  
   
 ![matrix.png](matrix.png)
 
