@@ -2,18 +2,18 @@
 `Pump-it-Up-Data-Mining-the-Water-Table`
 
 # Goal
-The goal of this project is to predict which pumps are functional ( or need some repairs), which are not funtional. KNN, Decision Tree and Random Forest are applied in this project. According to accuracy_score and F1_score, Random Forest model is selected as the final model. 
+The goal of this project is to predict which pumps are functional or functional but need some repair, which are not functional. KNN, Decision Tree and Random Forest are applied in this project. According to accuracy_score and F1_score, Random Forest model is selected as the final model. 
 
 ## Target: 
 - not functional :0
 - functional :1
-- funtional but need to repair :2
+- functional but need to repair :2
 
 ## Predictors:
 ![feature_table.png](feature_table.png)
            
 # Data Cleaning
-- [Enders ( 2003 ) stated that a missing rate of 15% to 20% was common in educational and psychological studies.](https://psycnet.apa.org/record/2003-09632-006) In order to obtian the best prediction, some columns which contian missing data more than 20% were removed.  There are 29 predictors(columns), the rows which contians more than 10 were removed. 
+- [Enders ( 2003 ) stated that a missing rate of 15% to 20% was common in educational and psychological studies.](https://psycnet.apa.org/record/2003-09632-006) In order to obtain the best prediction, some columns which contian missing data more than 20% were removed.  There are 29 predictors(columns), the rows which contians more than 10 were removed. 
 
 # Distribution of Target
 -![distribution_of_target.png](distribution_of_target.png)
