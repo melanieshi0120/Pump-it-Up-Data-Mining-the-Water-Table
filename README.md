@@ -36,6 +36,7 @@ The goal of this project is to predict which pumps are functional or functional 
 # Conclusion
 - After model evaluation, Random Forest model is the best model with highest accuarcy score and f1 socre. 
  ![prediction_VS_actual.png](prediction_VS_actual.png)
+ ![confusion_matrix.png](confusion_matrix.png)
   
 - Comparing KNN , Random Forest and Decision Tree models, Random Forest model gave highest accuracy score and F score.  
 According to Random Forest model top 5 important features are :
@@ -45,7 +46,7 @@ According to Random Forest model top 5 important features are :
  * 4.'gps_height'
  * 5.'ward'
  
- ![feature_importance.png](feature_importance.png)
+![feature_importance.png](feature_importance.png)
 
  
  #    
