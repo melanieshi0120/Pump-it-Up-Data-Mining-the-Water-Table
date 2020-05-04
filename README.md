@@ -54,4 +54,4 @@ According to Random Forest model top 5 important features are :
 - Presentation:
 https://docs.google.com/presentation/d/16RuNrFkAatRffgyUuw8Lktg78MtJ3fW1VdPh9muhDoM/edit#slide=id.g52d0ce73e5_0_238
 - Dashboard:
-https://public.tableau.com/profile/hua.shi#!/vizhome/WaterPumpsProject/Dashboard1
+https://public.tableau.com/profile/hua.shi#!/vizhome/WaterPumpsProject/water_pump_classification_project
